@@ -1,0 +1,40 @@
+{
+  "altceva.txt": [
+    {
+      "operation": "UPLOAD",
+      "user": "student",
+      "timestamp": "2026-05-06 19:14:25",
+      "details": "File uploaded with 41 characters"
+    },
+    {
+      "operation": "READ",
+      "user": "student",
+      "timestamp": "2026-05-06 19:15:07",
+      "details": "File content read"
+    },
+    {
+      "operation": "EDIT",
+      "user": "student",
+      "timestamp": "2026-05-06 19:15:18",
+      "details": "File edited, new size: 22 characters"
+    },
+    {
+      "operation": "DOWNLOAD",
+      "user": "student",
+      "timestamp": "2026-05-06 19:15:31",
+      "details": "File downloaded by student"
+    },
+    {
+      "operation": "RENAME",
+      "user": "student",
+      "timestamp": "2026-05-06 19:18:23",
+      "details": "Renamed from \"exemplu.txt.Asta e un exemplu vreau sa vad daca functioneaza\" to \"exemplu.txt\""
+    },
+    {
+      "operation": "RENAME",
+      "user": "student",
+      "timestamp": "2026-05-06 19:24:18",
+      "details": "Renamed from \"exemplu.txt\" to \"altceva.txt\""
+    }
+  ]
+}
